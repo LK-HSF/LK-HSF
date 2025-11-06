@@ -19,7 +19,7 @@ A short summary of what the project does, the problem it solves, and why it’s 
 
 ## Contact
 
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/lukas-herrera/)
+[LinkedIn](https://www.linkedin.com/in/lukas-herrera/)
 
 ---
 

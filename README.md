@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm [Lukas]
 
 Welcome to my GitHub profile. Here’s a collection of projects I’ve worked on, showcasing my skills and interests across different technologies.
 

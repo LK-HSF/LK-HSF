@@ -6,14 +6,18 @@ Welcome to my GitHub profile. Here’s a collection of projects I’ve worked on
 
 ## Featured Projects
 
-### [Project Name 1](https://github.com/your-username/project-1)
+### [Active Directory & DHCP Lab](https://github.com/LK-HSF/Projects/blob/3b81330a7483c291b0855bedc24309939f77332e/AD-DS/README.md)
 **Description:**  
-A short summary of what the project does, the problem it solves, and why it’s interesting.  
-**Tech Stack:** Python, Django, PostgreSQL  
+This lab simulates an Active Directory Domain Services (AD DS) deployment with a DHCP server and VLAN segmentation using Cisco router and switch configurations. It provides a hands-on environment for learning AD, DHCP, and network segmentation in a small business network setup.
+
+**Tech Stack:**  
+Windows Server 2022, Cisco Router & Switch, DHCP, VLANs
+
 **Key Features:**  
-- [x] Feature 1  
-- [x] Feature 2  
-- [x] Feature 3  
+- [x] AD DS deployment with DHCP server  
+- [x] VLAN segmentation and inter-VLAN routing  
+- [x] Dynamic IP assignment for client devices  
+  
 
 ---
 
